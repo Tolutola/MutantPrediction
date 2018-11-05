@@ -4,7 +4,7 @@
 % Tola Oyetunde (10/08/2018)
 clc
 clear
-load 'Data/case1'
+load case1
 
 % case studies
 %case #1 4 e coli
